@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bollean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Floatsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SizeYunsuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zifuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
@@ -20,6 +29,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/wuhongnpm/soapeyenpm.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZuyA3uoDjl1SsI5HefCNYz9tBJ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -31,24 +47,75 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.1507799" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.print">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest" />
+      <module name="soapeyenpm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bollean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bollean" />
+      <module name="soapeyenpm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Floatsum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Floatsum" />
+      <module name="soapeyenpm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:/jdk" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="soapeyenpm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zifuc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zifuc" />
+      <module name="soapeyenpm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="print" />
+      <module name="soapeyenpm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Floatsum" />
+      <item itemvalue="Application.Bollean" />
+      <item itemvalue="Application.Zifuc" />
+      <item itemvalue="Application.ArrayTest" />
+      <item itemvalue="Application.print" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.print" />
+        <item itemvalue="Application.ArrayTest" />
+        <item itemvalue="Application.Zifuc" />
+        <item itemvalue="Application.Bollean" />
+        <item itemvalue="Application.Floatsum" />
       </list>
     </recent_temporary>
   </component>
@@ -67,44 +134,87 @@
       <workItem from="1585713709993" duration="1713000" />
       <workItem from="1585726239873" duration="1822000" />
       <workItem from="1585815780294" duration="1567000" />
+      <workItem from="1587016157437" duration="700000" />
+      <workItem from="1587016891499" duration="7919000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="19" key="#Project_Structure" timestamp="1585703190552">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="249" y="19" key="#Project_Structure" timestamp="1587016283803">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="233" y="19" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1585703190552" />
-    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585726607771">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="249" y="19" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587016283803" />
+    <state x="102" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587017047678">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1585726607771" />
-    <state x="371" y="142" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585726440571">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="102" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587017047678" />
+    <state x="396" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587017025164">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="371" y="142" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1585726440571" />
-    <state width="1237" height="155" key="GridCell.Tab.0.bottom" timestamp="1585728075657">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="396" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587017025164" />
+    <state x="437" y="115" key="FileChooserDialogImpl" timestamp="1587016280985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587016280985" />
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1587025351621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="155" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
-    <state width="1237" height="155" key="GridCell.Tab.0.center" timestamp="1585728075657">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587025351621" />
+    <state width="1323" height="158" key="GridCell.Tab.0.center" timestamp="1587025351621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="155" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
-    <state width="1237" height="155" key="GridCell.Tab.0.left" timestamp="1585728075657">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1323" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587025351621" />
+    <state width="1323" height="158" key="GridCell.Tab.0.left" timestamp="1587025351621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="155" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
-    <state width="1237" height="155" key="GridCell.Tab.0.right" timestamp="1585728075657">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1323" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587025351621" />
+    <state width="1323" height="158" key="GridCell.Tab.0.right" timestamp="1587025351621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
-    <state x="142" y="2" key="SettingsEditor" timestamp="1585726289268">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587025351621" />
+    <state width="1323" height="199" key="GridCell.Tab.1.bottom" timestamp="1587016871459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
+    <state width="1323" height="199" key="GridCell.Tab.1.center" timestamp="1587016871459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
+    <state width="1323" height="199" key="GridCell.Tab.1.left" timestamp="1587016871459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
+    <state width="1323" height="199" key="GridCell.Tab.1.right" timestamp="1587016871459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
+    <state x="152" y="2" key="SettingsEditor" timestamp="1587017010866">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="142" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1585726289268" />
+    <state x="152" y="2" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587017010866" />
   </component>
 </project>
