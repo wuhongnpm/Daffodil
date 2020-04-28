@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/process/If.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Print.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_R" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -51,19 +48,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Print">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayTest" />
       <module name="soapeyenpm" />
@@ -145,6 +130,7 @@
       <workItem from="1587016891499" duration="7919000" />
       <workItem from="1587083859135" duration="2415000" />
       <workItem from="1587375769617" duration="288000" />
+      <workItem from="1587957963755" duration="3790000" />
     </task>
     <servers />
   </component>
@@ -165,25 +151,33 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="386" y="0" width="633" height="728" key="#HelloWorld" timestamp="1587963533709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="0" width="633" height="728" key="#HelloWorld/0.0.1366.728@0.0.1366.728" timestamp="1587963533709" />
     <state x="249" y="19" key="#Project_Structure" timestamp="1587016283803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="233" y="19" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1585703190552" />
     <state x="249" y="19" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587016283803" />
-    <state x="102" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587017047678">
+    <state x="149" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587964804023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1585726607771" />
-    <state x="102" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587017047678" />
-    <state x="396" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587017025164">
+    <state x="149" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587964804023" />
+    <state x="396" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587963676815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="371" y="142" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1585726440571" />
-    <state x="396" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587017025164" />
-    <state x="437" y="115" key="FileChooserDialogImpl" timestamp="1587016280985">
+    <state x="396" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587963676815" />
+    <state x="525" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587958136086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="437" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587016280985" />
+    <state x="525" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1587958136086" />
+    <state x="437" y="115" key="FileChooserDialogImpl" timestamp="1587963618849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587963618849" />
     <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1587086277686">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
