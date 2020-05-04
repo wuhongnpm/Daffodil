@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pdemoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pdemob.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/process/If.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="Application.Pdemob">
     <configuration name="Floatsum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Floatsum" />
       <module name="soapeyenpm" />
@@ -89,8 +85,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pdemob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pdemob" />
+      <module name="soapeyenpm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pdemob" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Pdemoa" />
         <item itemvalue="Application.Floatsum" />
@@ -122,6 +126,8 @@
       <workItem from="1588402808250" duration="4954000" />
       <workItem from="1588421998069" duration="2771000" />
       <workItem from="1588425992677" duration="936000" />
+      <workItem from="1588470902029" duration="1017000" />
+      <workItem from="1588550725815" duration="1131000" />
     </task>
     <servers />
   </component>
@@ -176,28 +182,28 @@
     </state>
     <state x="409" y="107" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588405240459" />
     <state x="437" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587963618849" />
-    <state width="1237" height="141" key="GridCell.Tab.0.bottom" timestamp="1588426940681">
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom" timestamp="1588551927193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588426940681" />
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588551927193" />
     <state width="1237" height="155" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
     <state width="1323" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587086277686" />
-    <state width="1237" height="141" key="GridCell.Tab.0.center" timestamp="1588426940681">
+    <state width="1237" height="141" key="GridCell.Tab.0.center" timestamp="1588551927192">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588426940681" />
+    <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588551927192" />
     <state width="1237" height="155" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
     <state width="1323" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587086277686" />
-    <state width="1237" height="141" key="GridCell.Tab.0.left" timestamp="1588426940680">
+    <state width="1237" height="141" key="GridCell.Tab.0.left" timestamp="1588551927192">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588426940680" />
+    <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588551927192" />
     <state width="1237" height="155" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
     <state width="1323" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587086277685" />
-    <state width="1237" height="141" key="GridCell.Tab.0.right" timestamp="1588426940681">
+    <state width="1237" height="141" key="GridCell.Tab.0.right" timestamp="1588551927193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588426940681" />
+    <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588551927193" />
     <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
     <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587086277686" />
     <state width="1323" height="199" key="GridCell.Tab.1.bottom" timestamp="1587016871459">
@@ -216,15 +222,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="199" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1588426154444">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588551919001">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588426154444" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588551919001" />
     <state x="142" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1585726289268" />
     <state x="152" y="2" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587017010866" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1587084738075">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="318" y="151" key="run.anything.popup" timestamp="1588471183793">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="318" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1588471183793" />
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587084738075" />
   </component>
 </project>
