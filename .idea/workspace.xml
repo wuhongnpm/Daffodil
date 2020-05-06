@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pdemoe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pdemod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pdemod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1507799" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunManager" selected="Application.Pdemoe">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -126,6 +124,7 @@
       <workItem from="1588563004943" duration="3801000" />
       <workItem from="1588642819895" duration="46000" />
       <workItem from="1588643070986" duration="2456000" />
+      <workItem from="1588725461605" duration="3041000" />
     </task>
     <servers />
   </component>
@@ -220,12 +219,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="199" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1588551919001">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="136" y="0" key="SettingsEditor" timestamp="1588726815080">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588551919001" />
     <state x="142" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1585726289268" />
     <state x="152" y="2" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587017010866" />
+    <state x="136" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1588726815080" />
     <state x="318" y="151" key="run.anything.popup" timestamp="1588471183793">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
