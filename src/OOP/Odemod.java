@@ -1,5 +1,6 @@
 package OOP;
 
+/*
 public class Odemod {
     public static void main(String[] args) {
 
@@ -17,3 +18,4 @@ public class Odemod {
     }
 
 }
+*/

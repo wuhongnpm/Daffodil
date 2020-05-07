@@ -3,7 +3,7 @@ package OOP;
 public class Odemoa {
     public static void main(String[] args) {
         Person ming = new Person();
-       // ming.name = "Xiao Ming"; // 对字段name赋值
+        // ming.name = "Xiao Ming"; // 对字段name赋值
         //ming.age = 12; // 对字段age赋值
         ming.setName("Fogbow");
         ming.setBirth(2020);
