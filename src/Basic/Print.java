@@ -1,3 +1,5 @@
+package Basic;
+
 public class Print {
     public  static void main (String[] args) {
         int a = 100;

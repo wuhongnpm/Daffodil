@@ -1,3 +1,5 @@
+package Basic;
+
 public class Bollean {
     public static  void main(String[] args) {
         int n = -100;

@@ -1,3 +1,5 @@
+package Basic;
+
 //基本数据类型的更多语法点
 public class Pdemoe {
     public static void main(String[] args) {

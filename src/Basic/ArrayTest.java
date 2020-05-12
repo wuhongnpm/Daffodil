@@ -1,3 +1,5 @@
+package Basic;
+
 public class ArrayTest {
     public static  void main(String[] args) {
         //数组方式定义同学成绩

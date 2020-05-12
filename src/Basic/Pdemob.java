@@ -1,3 +1,5 @@
+package Basic;
+
 //实例002 加减乘除 2020-05-03
 public class Pdemob {
     public static void main(String[] args) {

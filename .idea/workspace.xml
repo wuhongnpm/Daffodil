@@ -20,9 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pdemoh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Pdemof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Pdemoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Odemoe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pdemoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pdemoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bollean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Bollean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Floatsum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Floatsum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pdemoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pdemob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pdemoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pdemod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pdemoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pdemog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pdemoh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemoh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SizeYunsuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/SizeYunsuan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zifuc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Zifuc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,26 +83,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Pdemoh">
-    <configuration name="Odemob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Odemob" />
+  <component name="RunManager" selected="Application.Pdemoi">
+    <configuration name="Odemoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Odemoe" />
       <module name="soapeyenpm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Odemoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Odemoc" />
-      <module name="soapeyenpm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,22 +98,35 @@
       </method>
     </configuration>
     <configuration name="Pdemoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pdemoa" />
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoa" />
       <module name="soapeyenpm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pdemob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pdemob" />
+    <configuration name="Pdemof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemof" />
       <module name="soapeyenpm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Pdemoh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pdemoh" />
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoh" />
       <module name="soapeyenpm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pdemoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoi" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pdemoh" />
+        <item itemvalue="Application.Pdemoi" />
         <item itemvalue="Application.Pdemoa" />
-        <item itemvalue="Application.Pdemob" />
-        <item itemvalue="Application.Odemoc" />
-        <item itemvalue="Application.Odemob" />
+        <item itemvalue="Application.Pdemof" />
+        <item itemvalue="Application.Odemoe" />
+        <item itemvalue="Application.Pdemoh" />
       </list>
     </recent_temporary>
   </component>
@@ -230,53 +244,53 @@
     </state>
     <state x="409" y="107" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588405240459" />
     <state x="437" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587963618849" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1588931233751">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1589246288938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588857607114" />
     <state width="1237" height="155" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588931233751" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589246288938" />
     <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588844293143" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1588931233751">
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1589246288938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588857607114" />
     <state width="1237" height="155" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588931233751" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589246288938" />
     <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588844293142" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1588931233751">
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1589246288938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588857607114" />
     <state width="1237" height="155" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588931233751" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589246288938" />
     <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588844293141" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1588931233751">
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1589246288938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588857607114" />
     <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588931233751" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589246288938" />
     <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588844293142" />
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1588835640669">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1589182468190">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="199" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589182468190" />
     <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588835640669" />
-    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1588835640669">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1589182468190">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="199" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589182468190" />
     <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1588835640669" />
-    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1588835640669">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1589182468190">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="199" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589182468190" />
     <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1588835640669" />
-    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1588835640669">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1589182468190">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="199" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587016871459" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589182468190" />
     <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1588835640669" />
     <state x="136" y="0" key="SettingsEditor" timestamp="1588833676631">
       <screen x="0" y="0" width="1366" height="768" />
@@ -285,10 +299,10 @@
     <state x="142" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1585726289268" />
     <state x="152" y="2" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587017010866" />
     <state x="136" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1588833676631" />
-    <state x="318" y="151" key="run.anything.popup" timestamp="1588471183793">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1589180959322">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="318" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1588471183793" />
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587084738075" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1589180959322" />
   </component>
 </project>

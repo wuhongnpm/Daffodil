@@ -1,3 +1,5 @@
+package Basic;
+
 public class Pdemoh {
     public static void main(String[] args) {
         FreshJuice juice = new FreshJuice();
