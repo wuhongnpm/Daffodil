@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Pdemol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Pdemom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Pdemon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemoj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/soapeyenpm/META-INF/soapeyenpm.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,40 +70,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Pdemol">
-    <configuration name="Pdemoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoa" />
-      <module name="soapeyenpm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pdemoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoi" />
-      <module name="soapeyenpm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pdemoj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoj" />
-      <module name="soapeyenpm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Pdemon">
     <configuration name="Pdemok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Pdemok" />
       <module name="soapeyenpm" />
@@ -129,6 +97,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pdemom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemom" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pdemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemon" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Print" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="soapeyenpm" />
       <method v="2">
@@ -137,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pdemon" />
+        <item itemvalue="Application.Pdemom" />
+        <item itemvalue="Application.Print" />
         <item itemvalue="Application.Pdemol" />
         <item itemvalue="Application.Pdemok" />
-        <item itemvalue="Application.Pdemoj" />
-        <item itemvalue="Application.Pdemoi" />
-        <item itemvalue="Application.Pdemoa" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +188,7 @@
       <workItem from="1588833055241" duration="292000" />
       <workItem from="1588854231578" duration="2667000" />
       <workItem from="1589380561468" duration="1230000" />
+      <workItem from="1592746932952" duration="1016000" />
     </task>
     <servers />
   </component>
@@ -244,32 +252,32 @@
     </state>
     <state x="409" y="107" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588405240459" />
     <state x="437" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587963618849" />
-    <state width="1237" height="399" key="GridCell.Tab.0.bottom" timestamp="1589381807394">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1237" height="429" key="GridCell.Tab.0.bottom" timestamp="1592748013194">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589381807394" />
-    <state width="1237" height="155" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
+    <state width="1237" height="429" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1592748013194" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589358654687" />
     <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588844293143" />
-    <state width="1237" height="399" key="GridCell.Tab.0.center" timestamp="1589381807393">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1237" height="429" key="GridCell.Tab.0.center" timestamp="1592748013194">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589381807393" />
-    <state width="1237" height="155" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
+    <state width="1237" height="429" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1592748013194" />
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589358654687" />
     <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588844293142" />
-    <state width="1237" height="399" key="GridCell.Tab.0.left" timestamp="1589381807393">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1237" height="429" key="GridCell.Tab.0.left" timestamp="1592748013193">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589381807393" />
-    <state width="1237" height="155" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
+    <state width="1237" height="429" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1592748013193" />
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589358654687" />
     <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588844293141" />
-    <state width="1237" height="399" key="GridCell.Tab.0.right" timestamp="1589381807394">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1237" height="429" key="GridCell.Tab.0.right" timestamp="1592748013194">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589381807394" />
-    <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585728075657" />
+    <state width="1237" height="429" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1592748013194" />
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589358654687" />
     <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588844293142" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1589182468190">
