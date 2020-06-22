@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Pdemom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Pdemon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/soapeyenpm/META-INF/soapeyenpm.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,6 +186,8 @@
       <workItem from="1588854231578" duration="2667000" />
       <workItem from="1589380561468" duration="1230000" />
       <workItem from="1592746932952" duration="1270000" />
+      <workItem from="1592751588777" duration="52000" />
+      <workItem from="1592754101812" duration="11000" />
     </task>
     <servers />
   </component>
