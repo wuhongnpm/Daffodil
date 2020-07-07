@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +68,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Pdemon">
-    <configuration name="Pdemok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemok" />
+  <component name="RunManager" selected="Application.Pdemoa">
+    <configuration name="Pdemoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoa" />
       <module name="soapeyenpm" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pdemol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemol" />
+    <configuration name="Pdemoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoc" />
       <module name="soapeyenpm" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pdemoa" />
+        <item itemvalue="Application.Pdemoc" />
         <item itemvalue="Application.Pdemon" />
         <item itemvalue="Application.Pdemom" />
         <item itemvalue="Application.Print" />
-        <item itemvalue="Application.Pdemol" />
-        <item itemvalue="Application.Pdemok" />
       </list>
     </recent_temporary>
   </component>
@@ -199,13 +200,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="362" y="0" width="633" height="680" key="#HelloWorld" timestamp="1588403020727">
@@ -251,33 +251,33 @@
     </state>
     <state x="409" y="107" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588405240459" />
     <state x="437" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587963618849" />
-    <state width="1237" height="429" key="GridCell.Tab.0.bottom" timestamp="1592748221428">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1594017287377">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589381807394" />
     <state width="1237" height="429" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589358654687" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594017287377" />
     <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588844293143" />
-    <state width="1237" height="429" key="GridCell.Tab.0.center" timestamp="1592748221428">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1594017287377">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589381807393" />
     <state width="1237" height="429" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589358654687" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594017287377" />
     <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588844293142" />
-    <state width="1237" height="429" key="GridCell.Tab.0.left" timestamp="1592748221428">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1594017287377">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589381807393" />
     <state width="1237" height="429" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589358654687" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594017287377" />
     <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588844293141" />
-    <state width="1237" height="429" key="GridCell.Tab.0.right" timestamp="1592748221428">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1594017287377">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589381807394" />
     <state width="1237" height="429" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589358654687" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594017287377" />
     <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588844293142" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1589182468190">
       <screen x="0" y="0" width="1366" height="728" />
