@@ -1,3 +1,5 @@
+/**
+
 package OOP;
 
 import java.util.Random;
@@ -30,3 +32,5 @@ public class Odemoh {
         System.out.println("equals:"+Arrays.equals(arr, newArr));
     }
 }
+ *
+ */

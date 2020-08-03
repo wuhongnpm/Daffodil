@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Basic/PdemoP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Pdemoq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Else/Lambdaa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Odemoh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Odemoh.java" afterDir="false" />
     </list>
@@ -68,35 +71,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Odemog">
-    <configuration name="Odemof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Odemof" />
-      <module name="soapeyenpm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Odemog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Odemog" />
-      <module name="soapeyenpm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pdemoh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoh" />
+  <component name="RunManager" selected="Application.Pdemoq">
+    <configuration name="PdemoP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.PdemoP" />
       <module name="soapeyenpm" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pdemok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemok" />
+    <configuration name="Pdemoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoe" />
       <module name="soapeyenpm" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pdemoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoo" />
+    <configuration name="Pdemoq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoq" />
       <module name="soapeyenpm" />
       <extension name="coverage">
         <pattern>
@@ -130,23 +107,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <module name="soapeyenpm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Odemog" />
-        <item itemvalue="Application.Odemof" />
-        <item itemvalue="Application.Pdemok" />
-        <item itemvalue="Application.Pdemoh" />
-        <item itemvalue="Application.Pdemoo" />
+        <item itemvalue="Application.Pdemoq" />
+        <item itemvalue="Application.PdemoP" />
+        <item itemvalue="Application.Pdemoe" />
       </list>
     </recent_temporary>
   </component>
@@ -213,10 +182,6 @@
     </state>
     <state x="362" y="0" width="633" height="680" key="#HelloWorld/0.0.1280.680@0.0.1280.680" timestamp="1588403020727" />
     <state x="386" y="0" width="633" height="728" key="#HelloWorld/0.0.1366.728@0.0.1366.728" timestamp="1587963533709" />
-    <state x="249" y="19" key="#Project_Structure" timestamp="1587016283803">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="249" y="19" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587016283803" />
     <state x="233" y="0" key="#Tomcat_Server" timestamp="1588426151243">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -225,11 +190,11 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="386" y="15" key="#Unnamed/0.0.1366.768@0.0.1366.768" timestamp="1588833321634" />
-    <state x="258" y="11" width="1092" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588833288779">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="149" y="30" width="1092" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596164372039">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="140" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1588425777774" />
-    <state x="149" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587964804023" />
+    <state x="149" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596164372039" />
     <state x="258" y="11" width="1092" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1588833288779" />
     <state x="463" y="88" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588833306813">
       <screen x="0" y="0" width="1366" height="768" />
@@ -243,38 +208,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="525" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1587958136086" />
+    <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596159595452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1596159595452" />
     <state x="437" y="115" key="FileChooserDialogImpl" timestamp="1595406357038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="409" y="107" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588405240459" />
     <state x="437" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595406357038" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1595237141745">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596189464548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589381807394" />
     <state width="1237" height="429" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595237141745" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596189464548" />
     <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588844293143" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1595237141745">
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1596189464548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589381807393" />
     <state width="1237" height="429" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595237141745" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596189464548" />
     <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588844293142" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1595237141745">
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1596189464548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589381807393" />
     <state width="1237" height="429" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595237141745" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596189464548" />
     <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588844293141" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1595237141745">
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1596189464548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="399" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589381807394" />
     <state width="1237" height="429" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595237141745" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596189464548" />
     <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588844293142" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1589182468190">
       <screen x="0" y="0" width="1366" height="728" />
@@ -300,7 +269,6 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588551919001" />
-    <state x="152" y="2" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587017010866" />
     <state x="136" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1588833676631" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1589267671902">
       <screen x="0" y="0" width="1366" height="728" />
