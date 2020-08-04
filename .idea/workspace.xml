@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/PdemoP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Pdemoq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Else/Lambdaa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Odemoh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Odemoh.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
