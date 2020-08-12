@@ -1,8 +1,6 @@
 package Else;
 
-import java.sql.Driver;
-import java.sql.DriverManager;
-
+/**
 public class JDBCmysql {
     //注册mysql驱动程序
     try {
@@ -17,3 +15,4 @@ public class JDBCmysql {
     
 
 }
+ **/
