@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pdemoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Else/Conna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Else/Conna.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Ca">
+  <component name="RunManager" selected="Application.Pdemoc">
     <configuration name="Ca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Else.Ca" />
       <module name="soapeyenpm" />
@@ -94,6 +96,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JdbcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Else.JdbcTest" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pdemoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoa" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pdemoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Pdemoc" />
       <module name="soapeyenpm" />
@@ -107,39 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pdemoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoi" />
-      <module name="soapeyenpm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pdemoq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pdemoq" />
-      <module name="soapeyenpm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ca" />
-        <item itemvalue="Application.Floatsum" />
         <item itemvalue="Application.Pdemoc" />
-        <item itemvalue="Application.Pdemoi" />
-        <item itemvalue="Application.Pdemoq" />
+        <item itemvalue="Application.Ca" />
+        <item itemvalue="Application.JdbcTest" />
+        <item itemvalue="Application.Pdemoa" />
+        <item itemvalue="Application.Floatsum" />
       </list>
     </recent_temporary>
   </component>
@@ -203,15 +205,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="4" key="#Plugins" timestamp="1598335235441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="4" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1598335235441" />
     <state x="149" y="30" width="1092" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596164372039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -225,26 +230,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596533028242" />
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom" timestamp="1597311983560">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1598434344915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="429" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597311983560" />
-    <state width="1323" height="222" key="GridCell.Tab.0.center" timestamp="1597311983560">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598434344915" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1598434344914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="429" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597311983560" />
-    <state width="1323" height="222" key="GridCell.Tab.0.left" timestamp="1597311983560">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598434344914" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1598434344914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="429" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597311983560" />
-    <state width="1323" height="222" key="GridCell.Tab.0.right" timestamp="1597311983560">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598434344914" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1598434344914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="429" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1592748221428" />
-    <state width="1323" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597311983560" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598434344914" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1597311983560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

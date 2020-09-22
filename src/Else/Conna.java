@@ -1,5 +1,5 @@
 package Else;
-
+/**
 public class Conna {
 }
 
@@ -74,3 +74,4 @@ public class JdbcTest {
         System.out.println("Goodbye!");
     }
 }
+ **/
