@@ -20,43 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/twtc/Start.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/ArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Bollean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Floatsum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/PdemoP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemof.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoj.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemok.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pdemoq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Print.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/SizeYunsuan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Zifuc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Else/Ca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Else/Conna.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Else/JDBCmysql.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Else/Lambdaa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Odemoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Odemob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Odemoc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Odemod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Odemoe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Odemof.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Odemog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Odemoh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twtc/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twtc/Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,6 +163,7 @@
       <workItem from="1600997258289" duration="1610000" />
       <workItem from="1601025730295" duration="92000" />
       <workItem from="1607504708027" duration="2051000" />
+      <workItem from="1607567186072" duration="8435000" />
     </task>
     <servers />
   </component>
@@ -231,22 +197,22 @@
     </state>
     <state x="340" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1600852530221" />
     <state x="340" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1600591782263" />
-    <state width="1237" height="398" key="GridCell.Tab.0.bottom" timestamp="1607507081157">
+    <state width="1237" height="398" key="GridCell.Tab.0.bottom" timestamp="1607594042719">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="398" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607507081157" />
-    <state width="1237" height="398" key="GridCell.Tab.0.center" timestamp="1607507081157">
+    <state width="1237" height="398" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607594042719" />
+    <state width="1237" height="398" key="GridCell.Tab.0.center" timestamp="1607594042717">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="398" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607507081157" />
-    <state width="1237" height="398" key="GridCell.Tab.0.left" timestamp="1607507081157">
+    <state width="1237" height="398" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607594042717" />
+    <state width="1237" height="398" key="GridCell.Tab.0.left" timestamp="1607594042716">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="398" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607507081157" />
-    <state width="1237" height="398" key="GridCell.Tab.0.right" timestamp="1607507081157">
+    <state width="1237" height="398" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607594042716" />
+    <state width="1237" height="398" key="GridCell.Tab.0.right" timestamp="1607594042717">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="398" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607507081157" />
+    <state width="1237" height="398" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607594042717" />
     <state x="127" y="0" key="SettingsEditor" timestamp="1600935543236">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
