@@ -12,6 +12,5 @@ public class Start {
         mike.name = "Jim.Mike";
         mike.age = 21;
         mike.number = 001;
-        System.out.println("Hello World"); //输出
     }
 }
