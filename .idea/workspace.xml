@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/twtc/Start.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/demoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twtc/demoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twtc/demoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twtc/Demoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,33 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Start">
+    <configuration name="Demoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twtc.Demoa" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twtc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twtc.Start" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twtc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="twtc.demoa" />
       <module name="soapeyenpm" />
@@ -96,6 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.Demoa" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -163,6 +196,11 @@
       <workItem from="1609144158243" duration="2841000" />
       <workItem from="1609228241398" duration="3103000" />
       <workItem from="1609298487858" duration="7822000" />
+      <workItem from="1609809102647" duration="2361000" />
+      <workItem from="1609825876777" duration="9000" />
+      <workItem from="1609833844717" duration="3265000" />
+      <workItem from="1609922498785" duration="3073000" />
+      <workItem from="1610254728963" duration="10000" />
     </task>
     <servers />
   </component>
@@ -204,47 +242,38 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="143" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1609146592287" />
-    <state x="340" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600852530221">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="340" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1600852530221" />
     <state x="427" y="115" key="FileChooserDialogImpl" timestamp="1609144185695">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="427" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1609144185695" />
-    <state width="1237" height="397" key="GridCell.Tab.0.bottom" timestamp="1609320620288">
+    <state width="1237" height="426" key="GridCell.Tab.0.bottom" timestamp="1609925715888">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="397" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609320620288" />
+    <state width="1237" height="426" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609925715888" />
     <state width="1237" height="428" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
-    <state width="1237" height="397" key="GridCell.Tab.0.center" timestamp="1609320620288">
+    <state width="1237" height="426" key="GridCell.Tab.0.center" timestamp="1609925715888">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="397" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609320620288" />
+    <state width="1237" height="426" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609925715888" />
     <state width="1237" height="428" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
-    <state width="1237" height="397" key="GridCell.Tab.0.left" timestamp="1609320620287">
+    <state width="1237" height="426" key="GridCell.Tab.0.left" timestamp="1609925715887">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="397" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609320620287" />
+    <state width="1237" height="426" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609925715887" />
     <state width="1237" height="428" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
-    <state width="1237" height="397" key="GridCell.Tab.0.right" timestamp="1609320620288">
+    <state width="1237" height="426" key="GridCell.Tab.0.right" timestamp="1609925715888">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="397" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609320620288" />
+    <state width="1237" height="426" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609925715888" />
     <state width="1237" height="428" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
     <state x="127" y="0" key="SettingsEditor" timestamp="1609144133044">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="127" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600935543236" />
     <state x="127" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1609144133044" />
     <state x="449" y="252" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609320487484">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="449" y="252" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1609320487484" />
-    <state x="28" y="0" key="new project wizard" timestamp="1600936244527">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1600936244527" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

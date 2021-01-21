@@ -1,6 +1,6 @@
 package twtc;
 
-public class demoa {
+public class Demoa {
     String name;
     float age;
     public static void main (String[] args) {
