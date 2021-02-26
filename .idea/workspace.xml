@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/caesar/Tdemoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -216,6 +215,8 @@
       <workItem from="1610254728963" duration="10000" />
       <workItem from="1612526454727" duration="674000" />
       <workItem from="1614156024920" duration="2694000" />
+      <workItem from="1614329395528" duration="70000" />
+      <workItem from="1614329559390" duration="1180000" />
     </task>
     <servers />
   </component>
