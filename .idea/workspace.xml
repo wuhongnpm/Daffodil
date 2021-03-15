@@ -19,45 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/ArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Bollean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Floatsum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/PdemoP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemoc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemoe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemof.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemoh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemoj.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemok.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemoo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Pdemoq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Print.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/SizeYunsuan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Basic/Zifuc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Else/Ca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Else/Conna.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Else/JDBCmysql.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/Else/Lambdaa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/OOP/Odemoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/OOP/Odemob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/OOP/Odemoc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/OOP/Odemod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/OOP/Odemoe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/OOP/Odemof.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/OOP/Odemog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2020/OOP/Odemoh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/caesar/Tdemoa.java" beforeDir="false" />
-    </list>
+    <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -314,6 +276,7 @@
       <workItem from="1615519485801" duration="3451000" />
       <workItem from="1615531595042" duration="5538000" />
       <workItem from="1615773445839" duration="7864000" />
+      <workItem from="1615800912518" duration="11000" />
     </task>
     <servers />
   </component>
