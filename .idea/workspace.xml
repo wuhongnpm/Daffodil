@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/twtc/Demob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twtc/Democ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caesar/Tdemoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caesar/Tdemoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +90,35 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
   </component>
-  <component name="RunManager" selected="Application.Tdemoa">
+  <component name="RunManager" selected="Application.Democ">
     <configuration name="Demoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="twtc.Demoa" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twtc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twtc.Demob" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twtc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Democ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twtc.Democ" />
       <module name="soapeyenpm" />
       <extension name="coverage">
         <pattern>
@@ -136,6 +165,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Democ" />
+        <item itemvalue="Application.Demob" />
         <item itemvalue="Application.Tdemoa" />
         <item itemvalue="Application.Start" />
         <item itemvalue="Application.Demoa" />
@@ -217,6 +248,39 @@
       <workItem from="1614156024920" duration="2694000" />
       <workItem from="1614329395528" duration="70000" />
       <workItem from="1614329559390" duration="1180000" />
+      <workItem from="1614560074088" duration="2251000" />
+      <workItem from="1614575532454" duration="597000" />
+      <workItem from="1614588874041" duration="595000" />
+      <workItem from="1614590905971" duration="11000" />
+      <workItem from="1614590984587" duration="33000" />
+      <workItem from="1614647223827" duration="20000" />
+      <workItem from="1614647483189" duration="95000" />
+      <workItem from="1614659665597" duration="87000" />
+      <workItem from="1614734496405" duration="165000" />
+      <workItem from="1614740659197" duration="19000" />
+      <workItem from="1614756137686" duration="19000" />
+      <workItem from="1614904685068" duration="229000" />
+      <workItem from="1614904962006" duration="71000" />
+      <workItem from="1614906625063" duration="61000" />
+      <workItem from="1614920736604" duration="22000" />
+      <workItem from="1614932372259" duration="137000" />
+      <workItem from="1615165046989" duration="59000" />
+      <workItem from="1615186321774" duration="70000" />
+      <workItem from="1615252051020" duration="116000" />
+      <workItem from="1615260348093" duration="97000" />
+      <workItem from="1615337832626" duration="1151000" />
+      <workItem from="1615346674039" duration="51000" />
+      <workItem from="1615352730695" duration="84000" />
+      <workItem from="1615355590196" duration="33000" />
+      <workItem from="1615359897483" duration="167000" />
+      <workItem from="1615361957387" duration="90000" />
+      <workItem from="1615362097399" duration="658000" />
+      <workItem from="1615366090657" duration="596000" />
+      <workItem from="1615422770824" duration="506000" />
+      <workItem from="1615423550666" duration="8501000" />
+      <workItem from="1615519485801" duration="3451000" />
+      <workItem from="1615531595042" duration="5538000" />
+      <workItem from="1615773445839" duration="457000" />
     </task>
     <servers />
   </component>
@@ -266,25 +330,25 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="427" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1609144185695" />
-    <state width="1237" height="396" key="GridCell.Tab.0.bottom" timestamp="1614158089587">
+    <state width="1237" height="396" key="GridCell.Tab.0.bottom" timestamp="1615543457138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="396" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614158089587" />
+    <state width="1237" height="396" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615543457138" />
     <state width="1237" height="428" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
-    <state width="1237" height="396" key="GridCell.Tab.0.center" timestamp="1614158089587">
+    <state width="1237" height="396" key="GridCell.Tab.0.center" timestamp="1615543457138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="396" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1614158089587" />
+    <state width="1237" height="396" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1615543457138" />
     <state width="1237" height="428" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
-    <state width="1237" height="396" key="GridCell.Tab.0.left" timestamp="1614158089587">
+    <state width="1237" height="396" key="GridCell.Tab.0.left" timestamp="1615543457138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="396" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1614158089587" />
+    <state width="1237" height="396" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1615543457138" />
     <state width="1237" height="428" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
-    <state width="1237" height="396" key="GridCell.Tab.0.right" timestamp="1614158089587">
+    <state width="1237" height="396" key="GridCell.Tab.0.right" timestamp="1615543457138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="396" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1614158089587" />
+    <state width="1237" height="396" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1615543457138" />
     <state width="1237" height="428" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
     <state x="127" y="0" key="SettingsEditor" timestamp="1609144133044">
       <screen x="0" y="0" width="1280" height="720" />
