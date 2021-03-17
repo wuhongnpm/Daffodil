@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/twtc/Demod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twtc/Demoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twtc/Demof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twtc/Demog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twtc/Demoh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twtc/Lifea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twtc/Lifeb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,35 +93,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
   </component>
-  <component name="RunManager" selected="Application.Demod">
-    <configuration name="Demoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twtc.Demoa" />
-      <module name="soapeyenpm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="twtc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twtc.Demob" />
-      <module name="soapeyenpm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="twtc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Democ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twtc.Democ" />
+  <component name="RunManager" selected="Application.Demog">
+    <configuration name="Ddemog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twtc.Ddemog" />
       <module name="soapeyenpm" />
       <extension name="coverage">
         <pattern>
@@ -141,12 +120,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tdemoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="caesar.Tdemoa" />
+    <configuration name="Demoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twtc.Demoe" />
       <module name="soapeyenpm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="caesar.*" />
+          <option name="PATTERN" value="twtc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twtc.Demof" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twtc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twtc.Demog" />
+      <module name="soapeyenpm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twtc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demog" />
+        <item itemvalue="Application.Ddemog" />
+        <item itemvalue="Application.Demof" />
+        <item itemvalue="Application.Demoe" />
         <item itemvalue="Application.Demod" />
-        <item itemvalue="Application.Demoa" />
-        <item itemvalue="Application.Democ" />
-        <item itemvalue="Application.Demob" />
-        <item itemvalue="Application.Tdemoa" />
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +286,8 @@
       <workItem from="1615773445839" duration="7864000" />
       <workItem from="1615800912518" duration="11000" />
       <workItem from="1615855629055" duration="13454000" />
+      <workItem from="1615941404052" duration="2078000" />
+      <workItem from="1615948305333" duration="13240000" />
     </task>
     <servers />
   </component>
@@ -318,6 +325,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="423" y="130" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1607505149577" />
+    <state x="446" y="44" key="#com.intellij.ide.util.MemberChooser" timestamp="1615951746000">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="44" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1615951746000" />
     <state x="371" y="143" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1609146592287">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -330,25 +341,25 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="427" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1609144185695" />
-    <state width="1237" height="396" key="GridCell.Tab.0.bottom" timestamp="1615887498241">
+    <state width="1237" height="396" key="GridCell.Tab.0.bottom" timestamp="1615973408835">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="396" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615887498241" />
+    <state width="1237" height="396" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615973408835" />
     <state width="1237" height="428" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
-    <state width="1237" height="396" key="GridCell.Tab.0.center" timestamp="1615887498241">
+    <state width="1237" height="396" key="GridCell.Tab.0.center" timestamp="1615973408835">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="396" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1615887498241" />
+    <state width="1237" height="396" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1615973408835" />
     <state width="1237" height="428" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
-    <state width="1237" height="396" key="GridCell.Tab.0.left" timestamp="1615887498241">
+    <state width="1237" height="396" key="GridCell.Tab.0.left" timestamp="1615973408835">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="396" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1615887498241" />
+    <state width="1237" height="396" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1615973408835" />
     <state width="1237" height="428" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
-    <state width="1237" height="396" key="GridCell.Tab.0.right" timestamp="1615887498241">
+    <state width="1237" height="396" key="GridCell.Tab.0.right" timestamp="1615973408835">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="396" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1615887498241" />
+    <state width="1237" height="396" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1615973408835" />
     <state width="1237" height="428" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1609147112443" />
     <state x="127" y="0" key="SettingsEditor" timestamp="1609144133044">
       <screen x="0" y="0" width="1280" height="720" />
