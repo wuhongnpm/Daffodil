@@ -4,28 +4,26 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
-
-//执行SQL语句
-public class Demod {
+//使用try-with-resource的方式自动关闭连接.
+public class Demof {
     public static void main(String[] args) {
-        //s.execute执行sql语句,执行成功后,用mysql-front进行查看,明确插入成功
-        try{
+        try {
             Class.forName("com.mysql.cj.jdbc.Driver");
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+        try (
             //Connection
             Connection c = DriverManager.getConnection("jdbc:mysql://39.102.42.170:3306/twtb_database?characterEncoding=UTF-8",
                     "root","12345678");
             Statement s = c.createStatement();
-            //Insert
-            String sql = "insert into hero values(null,"+"'提莫'"+","+313.0f+","+50+")";
+            )
+        {
+            String sql = "insert into hero values(null,"+"'提莫3'"+","+313.0f+","+50+")";
             s.execute(sql);
-
-            System.out.println("执行插入语句成功");
-        }catch (ClassNotFoundException e) {
-            e.printStackTrace();
         }catch (SQLException e) {
             e.printStackTrace();
         }
 
     }
-
 }
