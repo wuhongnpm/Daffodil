@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gui/Testdemoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twtb/Demoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twtb/Demop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twtd/Demoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twtb/Demon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,6 +290,10 @@
       <workItem from="1616374076121" duration="20325000" />
       <workItem from="1616461066999" duration="5685000" />
       <workItem from="1616484239619" duration="4389000" />
+      <workItem from="1616632838972" duration="2694000" />
+      <workItem from="1616648356428" duration="595000" />
+      <workItem from="1616654910875" duration="1193000" />
+      <workItem from="1616658284857" duration="243000" />
     </task>
     <servers />
   </component>
