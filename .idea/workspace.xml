@@ -20,53 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a5069e-7b82-4794-bbc8-8575c48056f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/April/demoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twta/Demoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twta/Demoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Democ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Democ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demoe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demof.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demoh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demoh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demoj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demoj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demok.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtb/Demop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtb/Demop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Democ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demoe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demof.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demoh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demoj.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demok.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demoo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demou.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demov.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demoy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Demoz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Lifea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Lifeb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtc/Start.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twtd/Demoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/twtd/Demoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,6 +296,7 @@
       <workItem from="1616658284857" duration="243000" />
       <workItem from="1616725067533" duration="929000" />
       <workItem from="1618299003330" duration="6182000" />
+      <workItem from="1618361255300" duration="4570000" />
     </task>
     <servers />
   </component>
