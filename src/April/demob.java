@@ -57,6 +57,14 @@ public class demob {
            }
            System.out.println(sum);
         }
+        //对象,一旦创建对象,系统就会在内存中为对象开辟一块空间
+        /*
+       Demob ming = new Demob();
+        ming.height = 100;
+        ming.age = 12;
+        ming.printBaseMes();
+         */
+
 
     }
 }
