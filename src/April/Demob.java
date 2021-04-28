@@ -1,6 +1,6 @@
 package April;
 
-public class demob {
+public class Demob {
     //方法
     private  static  void methodDemoa() {
         int a1 = 100;

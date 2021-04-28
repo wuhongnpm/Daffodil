@@ -1,6 +1,6 @@
 package April;
 
-public class demoa {
+public class Demoa {
     public static void main(String[] args) {
         int a = 101;
         final double PI = 32.21312312;
