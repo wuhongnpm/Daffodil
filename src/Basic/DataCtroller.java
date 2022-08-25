@@ -1,6 +1,6 @@
-import java.sql.*;
-
-public class Test{
+package Basic;
+/**
+public class DataCtroller{
     public static void main(String[] args){
         Connection connection = null;
         try {
@@ -29,3 +29,4 @@ public class Test{
         }
     }
 }
+ */
