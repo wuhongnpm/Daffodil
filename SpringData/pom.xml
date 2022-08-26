@@ -2,6 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <!--
+    <parent>中添加Spring-boot-starter-parent依赖,特殊的Starter,提供一些Maven的默认配置.使开发者在引入其它依赖时不必输入版本号.
+     提供Java默认版本1.8,编码格式默认使用UTF-8,提供Dependency Management进行项目依赖的版本管理,默认的资源过滤与插件配置.
+     但日常公司项目是开发微服务项目或是多模块项目,使用公司自己的parent,这时还想进行项目依赖版本的统一管理,使用dependencyMangement来实现
+     用其将<dependencies>包起来.
+    -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -15,8 +21,13 @@
     <description>SpringData</description>
     <properties>
         <java.version>18</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
     <dependencies>
+        <!--
+        这里,引入一个Web的Starter
+        -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>

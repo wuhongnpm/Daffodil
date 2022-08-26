@@ -9,7 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloCtontroller {
     @RequestMapping("/hello")
-    public String hello(String name){
+    public String hello(String name)
+    {
         return "Can you Felling"+name;
     }
 }
