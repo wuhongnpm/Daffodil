@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <p>Hello World</p>
+        <div id='app'>
+            <p v-text="text"></p>
+            <p>v-text&&v-html,都能展示数据,且单向绑定,v-text也可以简写为{{}}</p>
+            <p>v-text只能渲染纯文本,浏览器不会对其进行html解析, v-html用于输出html,浏览器会解析</p>
+            <p>v-if,v-else,v-show相同点,通过变量控制标签内容的显示或隐藏. 不同点在于v-if 在浏览器上表现为整个DOM节点不会渲染  v-show的呈现相当于给DOM节点添加一个CSS属性display:none, v-else则类似JS语法的if else 需要跟进v-if后面</p>
+            <p>v-for和v-if不要一起使用</p>
+
+
+
+
+
+
+            <p>{{ text }}</p>
+            <p>{{ html }}</p>
+            <p v-text="html"></p>
+            <p v-html="html"></p>
+            <p v-if="ishow">十三</p>
+            <p v-else>十四</p>
+            <p v-show="!isshow">十三岁</p>
+            <div v-for="(item,index) in list">{{index}}{{item}}</div>
+        </div>
+    
+
+        <script src="https://cdn.bootcss.com/vue/2.6.10/vue.min.js" async defer></script>
+        <script>
+            window.onload = function (param) {
+                new Vue({
+                    el: "#app",
+                    data: {
+                        text: 'Jim SOM',
+                        html: 'SOM Jim',
+                        isshow: true,
+                        list: ['1','2','3']
+                    }
+                })
+              }
+        </script>
+    </body>
+</html>
