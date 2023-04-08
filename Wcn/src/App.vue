@@ -19,7 +19,7 @@ import { RouterView } from 'vue-router'
 </template>
 
 <style scoped>
-@import "../src/common/style/mixin.less" 
+/* @import "../src/common/style/mixin.less" */
 .logo {
   height: 6em;
   padding: 1.5em;
