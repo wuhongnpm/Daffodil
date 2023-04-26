@@ -1,13 +1,15 @@
-package com.ruidu.ruidu.Controller;
+package com.ruidu.ruidu.controller;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-
-public class CnController {
+@Controller
+public class MainController {
     @GetMapping("/info")
     @ResponseBody
     public String getInfoFromIdea() {
-        return  "This is String demo";
+        return "This is janpanses love";
     }
+
 }

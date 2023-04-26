@@ -8,12 +8,17 @@ const router = createRouter({
     routes: [
         {
             path: '/',
-            redirect: '/home'
+            redirect: '/'
         },
         {
             path: '/about',
             name:'about',
             component: ()=> import('@/views/About.vue')
+        },
+        {
+            path: '/cc',
+            name:'cc',
+            component: ()=> import('@/views/Ac.vue')
         }
         
     ]

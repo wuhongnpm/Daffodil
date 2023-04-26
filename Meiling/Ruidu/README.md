@@ -21,4 +21,12 @@
 
 * Lombok项目是第三方的Jav工具库,自动插入编辑器和构建工具.
 
+### 打包/运行
+* 使用Maven命令将项目打包,执行命令: mvn clean package -Ruidu.test.skip=true  (2)打包成功后,进入target目录,cd target  (3)启动Jar包: java -jar Ruidu-0.0.1-SNAPSHOT.ja
+* (1)直接右上角运行. (2) 命令行输入 mvn spring-boot:run
+
+### Swagger
+* 账号：admin 密码：123456
+* Swagger版本3.0 接口文档地址: BASE_URL + /swagger-ui/index.html
+
 

@@ -1,10 +1,4 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-
 ## 此时项目中 src 目录下的引用路径可以写成 @/components、@/router。
+### 前端技术栈: Vue3.2+ Vue Router4 + Pinia + Vant4 + Vite4 + Axios  后端技术栈Spring Boot
+### 登录认证模块,首页商品推荐模块,商品分类模块,商品搜索模块,购物车模块,下单模块,收货地址管理模块,订单管理模块等.
+
