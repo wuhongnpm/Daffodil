@@ -1,3 +1,0 @@
-mvc:
-  pathmatch:
-    matching-strategy: ANT_PATH_MATCHER
